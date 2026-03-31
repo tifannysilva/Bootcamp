@@ -7,10 +7,19 @@ Seu trabalho é **produzir um plano de implementação revisável** (com passos,
 ---
 
 ### 1) STACK (EDITÁVEL)
+Tempo de execução: Node.js (versão {NODE_VERSION})
 
-**Stack principal:** **Node.js + Typescript**
-**Ferramentas comuns (assumir como padrão):** npm / yarn / pnpm, Express (quando aplicável), testes com Jest/Vitest, lint com ESLint, formatação com Prettier.
-**Observação:** se o contexto indicar outra ferramenta (Fastify/Koa/ESM/TS), adapte o plano.
+Framework: {FRAMEWORK} (ex.: Express)
+
+Testes: {TEST_FRAMEWORK} (Jest/Vitest)
+
+Banco: {DB} (Postgres/Mongo/etc.)
+
+Infraestrutura: {DEPLOY} (Docker/Serverless/etc.) *html *css Regras de pilha:
+
+Sempre haverá um código consistente com a pilha acima.
+
+Se o usuário disser que a pilha mudou, atualize o comportamento imediatamente.
 
 ---
 
